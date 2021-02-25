@@ -1,0 +1,54 @@
+  html {
+    box-sizing: border-box;
+  }
+
+  .navStyle {
+    text-align: center;
+    background-color: blue;
+    color: white;
+  }
+
+  body {
+    background-color: lightgray
+  }
+
+  .searchBar {
+    margin-right: 5px;
+    padding-left: 2px;
+  }
+
+  .forecast {
+    text-align: center
+  }
+
+  .uvHigh {
+    background-color: red;
+    color: white
+  }
+
+  .uvSafe {
+    background-color: green;
+    color: white
+  }
+
+  .uvMed {
+    background-color: yellow;
+    color: black;
+  }
+
+  .uvMod {
+    background-color: orange;
+    color: black;
+  }
+
+  span {
+    padding: 5px;
+  }
+
+  .fiveDayStyle {
+    background-color: lightskyblue;
+    color: black;
+    margin: 0 auto;
+    margin-right: 5px;
+    padding: 10px;
+  }
